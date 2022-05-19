@@ -1,1 +1,2 @@
-# New Starblast client for EOT members![Uploading EOTbanner.png…]()
+# New Starblast client for EOT members
+![Uploading EOTbanner.png…]()
