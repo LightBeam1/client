@@ -1,4 +1,4 @@
-   *New Starblast client for EOT members*
+   *New client for EOT members*
    
 ```
 EOT discord: https://discord.gg/8MuqNSFCzH
